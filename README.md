@@ -21,13 +21,13 @@ The dashboard focuses on identifying key drivers of revenue, margin pressure, an
 ## 📊 Dashboard Preview
 
 ### 🔹 Executive Overview
-![Executive](dashboard/Executive_Overview.png)
+![Executive](https://github.com/BoKwokProjects/BoKwokProjects-Strategic-Customer-Retention-Revenue-Optimization-Power-BI/blob/main/Dashboard/Executive_Overview.png)
 
 ### 🔹 Sales & Performance Dashboard
-![Dashboard](dashboard/dashboard-overview.png)
+![Dashboard](https://github.com/BoKwokProjects/BoKwokProjects-Strategic-Customer-Retention-Revenue-Optimization-Power-BI/blob/main/Dashboard/Sales%20%26%20Customer%20Performance%20Dashboard.png)
 
 ### 🔹 Customer Insights
-![Customer](dashboard/customer-insights.png)
+![Customer](https://github.com/BoKwokProjects/BoKwokProjects-Strategic-Customer-Retention-Revenue-Optimization-Power-BI/blob/main/Dashboard/Customer%20Insights.png)
 
 ---
 
